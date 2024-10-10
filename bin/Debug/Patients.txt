@@ -1,0 +1,1 @@
+{"Patient":{"PatientId":2,"Name":"sajid","Email":"sajid@gmail.com","Disease":"dengue"},"DeletionTime":"2024-10-09T21:35:05.6961334+05:00"}

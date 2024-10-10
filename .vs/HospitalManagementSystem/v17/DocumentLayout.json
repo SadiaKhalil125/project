@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\HospitalManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19A289EC-6833-41C9-969C-DC1CED28B0C6}|..\\HospitalDAL\\HospitalDAL.csproj|c:\\users\\dell\\source\\repos\\hospitaldal\\historylogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A289EC-6833-41C9-969C-DC1CED28B0C6}|..\\HospitalDAL\\HospitalDAL.csproj|c:\\users\\dell\\source\\repos\\hospitaldal\\inputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7818296-8428-4890-A747-A5D1D38847E4}|..\\HospitalEntities\\HospitalEntities.csproj|c:\\users\\dell\\source\\repos\\hospitalentities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E4849E-307F-43B6-8CB9-EE07CAF8C7C8}|HospitalManagementConsoleApp.csproj|C:\\Users\\DELL\\source\\repos\\HospitalManagementSystem\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E4849E-307F-43B6-8CB9-EE07CAF8C7C8}|HospitalManagementConsoleApp.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A289EC-6833-41C9-969C-DC1CED28B0C6}|..\\HospitalDAL\\HospitalDAL.csproj|c:\\users\\dell\\source\\repos\\hospitaldal\\appointmentdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A289EC-6833-41C9-969C-DC1CED28B0C6}|..\\HospitalDAL\\HospitalDAL.csproj|c:\\users\\dell\\source\\repos\\hospitaldal\\patientdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A289EC-6833-41C9-969C-DC1CED28B0C6}|..\\HospitalDAL\\HospitalDAL.csproj|c:\\users\\dell\\source\\repos\\hospitaldal\\doctordataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7818296-8428-4890-A747-A5D1D38847E4}|..\\HospitalEntities\\HospitalEntities.csproj|c:\\users\\dell\\source\\repos\\hospitalentities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E4849E-307F-43B6-8CB9-EE07CAF8C7C8}|HospitalManagementConsoleApp.csproj|C:\\Users\\DELL\\source\\repos\\HospitalManagementSystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E4849E-307F-43B6-8CB9-EE07CAF8C7C8}|HospitalManagementConsoleApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7818296-8428-4890-A747-A5D1D38847E4}|..\\HospitalEntities\\HospitalEntities.csproj|c:\\users\\dell\\source\\repos\\hospitalentities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InputValidation.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\HospitalDAL\\InputValidation.cs",
+              "RelativeDocumentMoniker": "..\\HospitalDAL\\InputValidation.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\HospitalDAL\\InputValidation.cs",
+              "RelativeToolTip": "..\\HospitalDAL\\InputValidation.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwEwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T14:53:13.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppointmentDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\HospitalDAL\\AppointmentDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\HospitalDAL\\AppointmentDataAccess.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\HospitalDAL\\AppointmentDataAccess.cs",
+              "RelativeToolTip": "..\\HospitalDAL\\AppointmentDataAccess.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAUwJ8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T16:03:01.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoctorDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\HospitalDAL\\DoctorDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\HospitalDAL\\DoctorDataAccess.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\HospitalDAL\\DoctorDataAccess.cs",
+              "RelativeToolTip": "..\\HospitalDAL\\DoctorDataAccess.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAQwLsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T16:02:47.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\HospitalEntities\\Appointment.cs",
+              "RelativeDocumentMoniker": "..\\HospitalEntities\\Appointment.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\HospitalEntities\\Appointment.cs",
+              "RelativeToolTip": "..\\HospitalEntities\\Appointment.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:58:38.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\HospitalEntities\\Doctor.cs",
+              "RelativeDocumentMoniker": "..\\HospitalEntities\\Doctor.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\HospitalEntities\\Doctor.cs",
+              "RelativeToolTip": "..\\HospitalEntities\\Doctor.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:58:06.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PatientDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\HospitalDAL\\PatientDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\HospitalDAL\\PatientDataAccess.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\HospitalDAL\\PatientDataAccess.cs",
+              "RelativeToolTip": "..\\HospitalDAL\\PatientDataAccess.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAAAJkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:14:53.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HistoryLogger.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\HospitalDAL\\HistoryLogger.cs",
+              "RelativeDocumentMoniker": "..\\HospitalDAL\\HistoryLogger.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\HospitalDAL\\HistoryLogger.cs",
+              "RelativeToolTip": "..\\HospitalDAL\\HistoryLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:15:03.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\HospitalEntities\\Patient.cs",
+              "RelativeDocumentMoniker": "..\\HospitalEntities\\Patient.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\HospitalEntities\\Patient.cs",
+              "RelativeToolTip": "..\\HospitalEntities\\Patient.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:57:38.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\HospitalManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\HospitalManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:15:26.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\HospitalManagementSystem\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\HospitalManagementSystem\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAUwF4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:15:34.956Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

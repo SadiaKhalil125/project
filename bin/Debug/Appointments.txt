@@ -1,0 +1,3 @@
+{"Appointment":{"AppointmentId":16,"PatientId":5,"DoctorId":2,"AppointmentDate":"2024-10-19T00:00:00"},"DeletionTime":"2024-10-05T15:58:02.2476801+05:00"}
+{"Appointment":{"AppointmentId":1,"PatientId":1,"DoctorId":2,"AppointmentDate":"2024-10-19T00:00:00"},"DeletionTime":"2024-10-06T15:52:09.7046573+05:00"}
+{"Appointment":{"AppointmentId":1,"PatientId":1,"DoctorId":1,"AppointmentDate":"2024-10-09T00:00:00"},"DeletionTime":"2024-10-08T19:27:41.2528695+05:00"}

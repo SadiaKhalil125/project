@@ -1,0 +1,5 @@
+{"Doctor":{"DoctorId":1,"Name":"John Adam","Specialization":"john@gmail.com"},"DeletionTime":"2024-10-06T15:50:37.556405+05:00"}
+{"Doctor":{"DoctorId":2,"Name":"Wajiha","Specialization":"Neurologist"},"DeletionTime":"2024-10-06T15:50:40.3308385+05:00"}
+{"Doctor":{"DoctorId":3,"Name":"Qinoa","Specialization":"Neurologist"},"DeletionTime":"2024-10-08T18:21:38.5252051+05:00"}
+{"Doctor":{"DoctorId":2,"Name":"ethern","Specialization":"gyenac"},"DeletionTime":"2024-10-08T19:19:25.0206295+05:00"}
+{"Doctor":{"DoctorId":1,"Name":"atham","Specialization":"neurologist"},"DeletionTime":"2024-10-09T21:35:54.028342+05:00"}

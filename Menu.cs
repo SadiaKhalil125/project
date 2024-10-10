@@ -60,9 +60,9 @@ namespace HospitalManagementSystem
                 else if (choice == 2)
                 {
                     Patient patient = new Patient();
-                    Console.WriteLine("Enter Patient Id: ");
+                    Console.WriteLine("Enter Patient Id to update: ");
                     patient.PatientId = int.Parse(Console.ReadLine());
-                    Console.WriteLine("Enter Patient Name: ");
+                    Console.WriteLine("Enter New Patient Name: ");
                     patient.Name = Console.ReadLine();
                     Console.WriteLine("Enter Patient Email: ");
                     patient.Email = Console.ReadLine();
@@ -112,9 +112,9 @@ namespace HospitalManagementSystem
                 else if (choice == 7)
                 {
                     Doctor doctor = new Doctor();
-                    Console.WriteLine("Enter Doctor ID: ");
+                    Console.WriteLine("Enter Doctor ID To Update: ");
                     doctor.DoctorId = int.Parse(Console.ReadLine());
-                    Console.WriteLine("Enter Doctor Name: ");
+                    Console.WriteLine("Enter New Doctor Name: ");
                     doctor.Name = Console.ReadLine();
                     Console.WriteLine("Enter Doctor Sepcialization: ");
                     doctor.Specialization = Console.ReadLine();
@@ -215,7 +215,7 @@ namespace HospitalManagementSystem
                         }
                         else
                         {
-                            Console.WriteLine("Invalid Option!");
+                            return;
                         }
                     }
                     while (option != 0);
@@ -223,13 +223,13 @@ namespace HospitalManagementSystem
                 else if (choice == 16)
                 {
                     Appointment appointment = new Appointment();
-                    Console.WriteLine("Enter Appointment Id: ");
+                    Console.WriteLine("Enter Appointment Id To Update: ");
                     appointment.AppointmentId = int.Parse(Console.ReadLine());
-                    Console.WriteLine("Enter Patient Id: ");
+                    Console.WriteLine("Enter New Patient Id: ");
                     appointment.PatientId = int.Parse(Console.ReadLine());
-                    Console.WriteLine("Enter Doctor Id: ");
+                    Console.WriteLine("Enter New Doctor Id: ");
                     appointment.DoctorId = int.Parse(Console.ReadLine());
-                    Console.WriteLine("Enter Appointment DATE: ");
+                    Console.WriteLine("Enter New Appointment DATE: ");
                     appointment.AppointmentDate = DateTime.Parse(Console.ReadLine());
                     validation.validateAppointmentDateForUpdation(appointment);
                     appointmentDA.UpdateAppointmentInDatabase(appointment);
